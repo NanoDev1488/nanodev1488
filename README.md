@@ -20,8 +20,8 @@
 ## 📊 Статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nanodev1488&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanodev1488&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="profile/stats.svg" />
+  <img height="165" src="profile/top-langs.svg" />
 </p>
 
 ## 🏆 Трофеи
