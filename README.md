@@ -11,7 +11,7 @@
 <p align="center">
   🔧 Сейчас переписываю <a href="https://github.com/nanodev1488/NanoDecompiler"><b>NanoDecompiler</b></a> на C++ (V2.0, раньше был на Python)<br/>
   📡 Веду телеграм-канал: <a href="https://t.me/nanodev_MC">t.me/nanodev_MC</a><br/>
-  🤝 Состою в сообществе <b>Rumain</b><br/>
+  🤝 Состою в сообществе <b>RuMine</b><br/>
   ⚡ Люблю активничать
 </p>
 
@@ -27,7 +27,7 @@
 ## 🏆 Трофеи
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nanodev1488&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="profile/trophy.svg" />
 </p>
 
 ## 🐍 Contribution Snake
