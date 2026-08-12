@@ -17,17 +17,23 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install requests
+      - run: pip install requests beautifulsoup4
 
-      - name: Run update script
+      - name: Run project status script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_readme.py
+
+      - name: Run quote script
+        run: python scripts/update_quote.py
+
+      - name: Run telegram feed script
+        run: python scripts/update_tg_feed.py
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet --cached || git commit -m "chore: auto-update README stats"
+          git diff --quiet --cached || git commit -m "chore: auto-update README stats, quote, tg feed"
           git push
