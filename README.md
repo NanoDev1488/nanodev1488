@@ -69,6 +69,4 @@ _(обновится после первого запуска воркфлоу)_
 
 ---
 
-<p align="center"><i>Профиль обновляется автоматически через GitHub Actions ⚙️</i></p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
