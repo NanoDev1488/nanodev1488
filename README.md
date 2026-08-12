@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=nanodev&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=ɴᴀɴᴏᴅᴇᴠ&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,70 +10,70 @@
   <img src="assets/photo.jpg" width="180" style="border-radius:50%" alt="photo"/>
 </p>
 
+<p align="center">✧･ﾟ: *✧･ﾟ:* 　　*:･ﾟ✧*:･ﾟ✧</p>
+
 <p align="center">
-  🔧 Сейчас переписываю <a href="https://github.com/nanodev1488/NanoDecompiler"><b>NanoDecompiler</b></a> на C++ (V2.0, раньше был на Python)<br/>
-  📡 Веду телеграм-канал: <a href="https://t.me/nanodev_MC">t.me/nanodev_MC</a><br/>
-  🤝 Состою в сообществе <b>RuMine</b><br/>
-  ⚡ Люблю активничать
+  ➳ 🔧 Сейчас переписываю <a href="https://github.com/nanodev1488/NanoDecompiler"><b>ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ</b></a> на C++ (V2.0, раньше был на Python)<br/>
+  ➳ 📡 Веду телеграм-канал: <a href="https://t.me/nanodev_MC">t.me/nanodev_MC</a><br/>
+  ➳ 🤝 Состою в сообществе <b>ʀᴜᴍɪɴᴇ</b><br/>
+  ➳ ⚡ Люблю активничать
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/community-RuMine-2c5364?style=for-the-badge" alt="RuMine badge"/>
   <img src="https://komarev.com/ghpvc/?username=nanodev1488&style=for-the-badge&color=2c5364&label=views" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/nanodev1488?style=for-the-badge&color=2c5364&label=followers" alt="followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2c5364&label=repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnanodev1488" alt="public repos"/>
+  <img src="https://img.shields.io/badge/status-open%20to%20work-2c5364?style=for-the-badge" alt="open to work"/>
 </p>
 
----
+<p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
 
-## 📊 Статистика
+## 📊 ᴄᴛᴀᴛиᴄᴛиᴋᴀ
 
 <p align="center">
   <img height="165" src="profile/stats.svg" />
   <img height="165" src="profile/top-langs.svg" />
 </p>
 
-## 🏆 Трофеи
+## 🏆 ᴛᴩоɸᴇи
 
 <p align="center">
   <img src="profile/trophy.svg" />
 </p>
 
-## 📈 График активности
+## 📈 ᴦᴩᴀɸиᴋ ᴀᴋᴛиʙноᴄᴛи
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanodev1488&theme=react-dark&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ sɴᴀᴋᴇ
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nanodev1488/nanodev1488/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 💬 Цитата дня
+## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.
->
-> — Celestine Chua
+_(обновится после первого запуска воркфлоу)_
 <!--QUOTE-END-->
 
-## 📌 Про NanoDecompiler
+## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
 
 <!--PROJECT-STATUS-START-->
-- ⭐ Звёзды: **1**
-- 🈺 Основной язык: **Python**
-- 📝 Последний коммит: _update v1.6_
-- 🕒 Обновлено: 2026-08-12 23:12 UTC
+_(эта секция обновляется автоматически скриптом из шага 3)_
 <!--PROJECT-STATUS-END-->
 
-## 📡 Последние посты в канале
+## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Идея Ai модели для правок и поиска багов откладывается так как возникли огромные трудности с ней. Извиняюсь за ложную инфу ❤️](https://t.me/NanoDev_mc/108)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « Создаём? »](https://t.me/NanoDev_mc/105)
-- [(медиа-пост)](https://t.me/NanoDev_mc/104)
+_(обновится после первого запуска воркфлоу)_
 <!--TG-FEED-END-->
 
----
+<p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
+
+<p align="center">˜”*°•.•°*”˜ ✦ ˜”*°•.•°*”˜</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
