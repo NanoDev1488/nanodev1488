@@ -52,19 +52,26 @@
 ## 💬 Цитата дня
 
 <!--QUOTE-START-->
-_(обновится после первого запуска воркфлоу)_
+> Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.
+>
+> — Celestine Chua
 <!--QUOTE-END-->
 
 ## 📌 Про NanoDecompiler
 
 <!--PROJECT-STATUS-START-->
-_(эта секция обновляется автоматически скриптом из шага 3)_
+- ⭐ Звёзды: **1**
+- 🈺 Основной язык: **Python**
+- 📝 Последний коммит: _update v1.6_
+- 🕒 Обновлено: 2026-08-12 23:12 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 Последние посты в канале
 
 <!--TG-FEED-START-->
-_(обновится после первого запуска воркфлоу)_
+- [Идея Ai модели для правок и поиска багов откладывается так как возникли огромные трудности с ней. Извиняюсь за ложную инфу ❤️](https://t.me/NanoDev_mc/108)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « Создаём? »](https://t.me/NanoDev_mc/105)
+- [(медиа-пост)](https://t.me/NanoDev_mc/104)
 <!--TG-FEED-END-->
 
 ---
