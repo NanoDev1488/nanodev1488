@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> To do great work one must be very idle as well as very industrious.
+> An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.
 >
-> — Samuel Butler
+> — Chinese Proverb
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **Python**
 - 📝 Последний коммит: _update v1.6_
-- 🕒 Обновлено: 2026-08-13 07:16 UTC
+- 🕒 Обновлено: 2026-08-14 07:14 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Идея Ai модели для правок и поиска багов откладывается так как возникли огромные трудности с ней. Извиняюсь за ложную инфу ❤️](https://t.me/NanoDev_mc/108)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « Создаём? »](https://t.me/NanoDev_mc/105)
-- [(медиа-пост)](https://t.me/NanoDev_mc/104)
+- [✨ МАСШТАБНЫЙ КОНКУРС ✨ 🫵 Призы: 🤍 SallyGrief 1. Донат кастом 2. Донат д.хелпер 3. Кейс все или ничего х1 4. Мега донат кейс х1 5. Кейс все или ничего…](https://t.me/NanoDev_mc/113)
+- [Вы сами решили, и я создал ❤️ T.me/NanoDev_lab (переходник)](https://t.me/NanoDev_mc/111)
+- [🫯 WateSquad x NanoDev 🫯 🛘 Призы: 1. Рандом сборки с приватки (х5) 2. Рандом сборки с приватки (х3) 3. Рандомная сборка с приватки (х1) 🐦‍🔥 Условия: […](https://t.me/NanoDev_mc/109)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
