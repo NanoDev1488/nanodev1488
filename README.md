@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Progress lies not in enhancing what is, but in advancing toward what will be.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> — Kahlil Gibran
+> — Robert Frost
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **Python**
 - 📝 Последний коммит: _update v1.6_
-- 🕒 Обновлено: 2026-08-18 06:31 UTC
+- 🕒 Обновлено: 2026-08-19 06:31 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Всех поздравляю 🤩 Прошло ровно 1 месяц 9 дней с момента открытия канала, и нас уже 100 человек ❤️ Приятно смотреть) Ждите подарок от меня может скоро…](https://t.me/NanoDev_mc/133)
-- [🫯 ФК на мишку до утра 🫯 🛘 Приз: • Подарок за 15 звезд 🐦‍🔥 Условия: [ 🍁 ] | Подписаться на WateSquad [ 🍁 ] | Подписаться на NanoDev 🌺 Конец 17.08 | 12:…](https://t.me/NanoDev_mc/131)
-- [🫯 ФК на мишку до утра 🫯 🛘 Приз: • Подарок за 15 звезд 🐦‍🔥 Условия: [ 🍁 ] | Подписаться на WateSquad [ 🍁 ] | Подписаться на NanoDev 🌺 Конец 17.08 | 12:…](https://t.me/NanoDev_mc/128)
+- [Спасибо бустерам ❤️](https://t.me/NanoDev_mc/137)
+- [🛡 РОЗЫГРЫШ 🔗 Призы: 1️⃣ FestSquad - OwlAnarchy 2️⃣ FestSquad - ElytraRise 3️⃣ FestSquad - SoulRise 4️⃣ NanoDev - NanoRTP 5️⃣ NanoDev - NanoQuests 6️⃣…](https://t.me/NanoDev_mc/136)
+- [Чем займёмся после аптейда Декомпера?)](https://t.me/NanoDev_mc/134)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
