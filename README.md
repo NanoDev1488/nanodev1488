@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> In three words I can sum up everything I've learned about life: it goes on.
+> Knowledge has to be improved, challenged, and increased constantly, or it vanishes.
 >
-> — Robert Frost
+> — Peter Drucker
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **Python**
 - 📝 Последний коммит: _update v1.6_
-- 🕒 Обновлено: 2026-08-19 06:31 UTC
+- 🕒 Обновлено: 2026-08-20 06:33 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Спасибо бустерам ❤️](https://t.me/NanoDev_mc/137)
-- [🛡 РОЗЫГРЫШ 🔗 Призы: 1️⃣ FestSquad - OwlAnarchy 2️⃣ FestSquad - ElytraRise 3️⃣ FestSquad - SoulRise 4️⃣ NanoDev - NanoRTP 5️⃣ NanoDev - NanoQuests 6️⃣…](https://t.me/NanoDev_mc/136)
-- [Чем займёмся после аптейда Декомпера?)](https://t.me/NanoDev_mc/134)
+- [Бля слушайте. Нужно было движок сразу на с++ ебашить. Щас переписать пайтон на с++ это мука. 7к+ строк превратятся в 14к+ строк не дай бог 😭 😭 😭](https://t.me/NanoDev_mc/140)
+- [😱 Всем привет! 🦷 У меня открылся бот (@pluginsearch_bot) Данный бот будет искать вам плагины по краткому описанию 🤩 Данный бот был сделан потому что м…](https://t.me/NanoDev_mc/139)
+- [😱 Всем привет! 🦷 У меня открылся бот ( @pluginsearch_bot ) Данный бот будет искать вам плагины по краткому описанию 🤩 Данный бот был сделан потому что…](https://t.me/NanoDev_mc/138)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
