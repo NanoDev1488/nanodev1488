@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Knowledge has to be improved, challenged, and increased constantly, or it vanishes.
+> Enjoy every minute of life. Never second-guess life.
 >
-> — Peter Drucker
+> — Michael Jordan
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **Python**
 - 📝 Последний коммит: _update v1.6_
-- 🕒 Обновлено: 2026-08-20 06:33 UTC
+- 🕒 Обновлено: 2026-08-21 06:33 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Бля слушайте. Нужно было движок сразу на с++ ебашить. Щас переписать пайтон на с++ это мука. 7к+ строк превратятся в 14к+ строк не дай бог 😭 😭 😭](https://t.me/NanoDev_mc/140)
-- [😱 Всем привет! 🦷 У меня открылся бот (@pluginsearch_bot) Данный бот будет искать вам плагины по краткому описанию 🤩 Данный бот был сделан потому что м…](https://t.me/NanoDev_mc/139)
-- [😱 Всем привет! 🦷 У меня открылся бот ( @pluginsearch_bot ) Данный бот будет искать вам плагины по краткому описанию 🤩 Данный бот был сделан потому что…](https://t.me/NanoDev_mc/138)
+- [🎉 Результаты розыгрыша: 🏆 Победители: 1. ꒒ ০ ⌵ ୧ ᡣ𐭩✞𝓡𝓸𝓛𝓲𝓣𝓮𝓧 ✞ᡣ𐭩꒒ ০ ⌵ ୧ (@Romakrutoigg) 2. xDark1sNet (@xDark1sNet) 3. _ 4. ᴛᴀʏ | ꜱᴇʟʟᴇʀ $ ₽ ₸ (@TaySel…](https://t.me/NanoDev_mc/144)
+- [🛡 РОЗЫГРЫШ 🔗 Призы: 1️⃣ FestSquad - OwlAnarchy 2️⃣ FestSquad - ElytraRise 3️⃣ FestSquad - SoulRise 4️⃣ NanoDev - NanoRTP 5️⃣ NanoDev - NanoQuests 6️⃣…](https://t.me/NanoDev_mc/143)
+- [Примерно неделя осталась и я выпускаю новый апдейт на декомпилер ❤️ Стараюсь. Кстати, может мне набрать какую-то команду?](https://t.me/NanoDev_mc/142)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
