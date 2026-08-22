@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Enjoy every minute of life. Never second-guess life.
+> Great minds are always feared by lesser minds.
 >
-> — Michael Jordan
+> — Dan Brown
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **Python**
 - 📝 Последний коммит: _update v1.6_
-- 🕒 Обновлено: 2026-08-21 06:33 UTC
+- 🕒 Обновлено: 2026-08-22 06:27 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [🎉 Результаты розыгрыша: 🏆 Победители: 1. ꒒ ০ ⌵ ୧ ᡣ𐭩✞𝓡𝓸𝓛𝓲𝓣𝓮𝓧 ✞ᡣ𐭩꒒ ০ ⌵ ୧ (@Romakrutoigg) 2. xDark1sNet (@xDark1sNet) 3. _ 4. ᴛᴀʏ | ꜱᴇʟʟᴇʀ $ ₽ ₸ (@TaySel…](https://t.me/NanoDev_mc/144)
-- [🛡 РОЗЫГРЫШ 🔗 Призы: 1️⃣ FestSquad - OwlAnarchy 2️⃣ FestSquad - ElytraRise 3️⃣ FestSquad - SoulRise 4️⃣ NanoDev - NanoRTP 5️⃣ NanoDev - NanoQuests 6️⃣…](https://t.me/NanoDev_mc/143)
-- [Примерно неделя осталась и я выпускаю новый апдейт на декомпилер ❤️ Стараюсь. Кстати, может мне набрать какую-то команду?](https://t.me/NanoDev_mc/142)
+- [@RageDev_R 🤝 @NanoDev_mc](https://t.me/NanoDev_mc/151)
+- [Ребят - даже в дороге я стараюсь работать ❤️ Проявите терпение 😀](https://t.me/NanoDev_mc/150)
+- [Ребят, я выезжаю из молдовы в сторону рф.. 2-3 дня не буду писать посты ❤️ Пожелайте удачи 😀](https://t.me/NanoDev_mc/149)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
