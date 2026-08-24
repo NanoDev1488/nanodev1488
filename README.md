@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> A man sees in the world what he carries in his heart.
+> Because a thing seems difficult for you, do not think it impossible.
 >
-> — Johann Wolfgang von Goethe
+> — Marcus Aurelius
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **Python**
 - 📝 Последний коммит: _update v1.6_
-- 🕒 Обновлено: 2026-08-23 06:28 UTC
+- 🕒 Обновлено: 2026-08-24 06:41 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [@NanoDev_mc 🤝 @officialscorpions](https://t.me/NanoDev_mc/153)
+- [В скором времени выпущу бета тест v2.0 (не полноценная версия)](https://t.me/NanoDev_mc/152)
 - [@RageDev_R 🤝 @NanoDev_mc](https://t.me/NanoDev_mc/151)
-- [Ребят - даже в дороге я стараюсь работать ❤️ Проявите терпение 😀](https://t.me/NanoDev_mc/150)
-- [Ребят, я выезжаю из молдовы в сторону рф.. 2-3 дня не буду писать посты ❤️ Пожелайте удачи 😀](https://t.me/NanoDev_mc/149)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
