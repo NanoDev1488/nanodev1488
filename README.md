@@ -57,26 +57,26 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Because a thing seems difficult for you, do not think it impossible.
+> Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.
 >
-> — Marcus Aurelius
+> — Richard Bach
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
 
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **1**
-- 🈺 Основной язык: **Python**
-- 📝 Последний коммит: _update v1.6_
-- 🕒 Обновлено: 2026-08-24 06:41 UTC
+- 🈺 Основной язык: **C++**
+- 📝 Последний коммит: _beta test v2.0_
+- 🕒 Обновлено: 2026-08-25 06:33 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [@NanoDev_mc 🤝 @officialscorpions](https://t.me/NanoDev_mc/153)
-- [В скором времени выпущу бета тест v2.0 (не полноценная версия)](https://t.me/NanoDev_mc/152)
-- [@RageDev_R 🤝 @NanoDev_mc](https://t.me/NanoDev_mc/151)
+- [Завтра ожидается кое-что интересное)](https://t.me/NanoDev_mc/157)
+- [github.com/NanoDev1488/NanoDecompiler/releases/latest Бета тест IDE встроенного. Кто может - протестите и скажите чо не так. Ещё улучшили пару моменто…](https://t.me/NanoDev_mc/156)
+- [github.com/NanoDev1488/NanoDecompiler/releases/ Бета тест IDE встроенного. Кто может - протестите и скажите чо не так. Ещё улучшили пару моментов с на…](https://t.me/NanoDev_mc/155)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
