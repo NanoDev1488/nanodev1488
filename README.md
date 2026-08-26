@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.
+> Wheresoever you go, go with all your heart.
 >
-> — Richard Bach
+> — Confucius
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _beta test v2.0_
-- 🕒 Обновлено: 2026-08-25 06:33 UTC
+- 🕒 Обновлено: 2026-08-26 06:36 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Завтра ожидается кое-что интересное)](https://t.me/NanoDev_mc/157)
-- [github.com/NanoDev1488/NanoDecompiler/releases/latest Бета тест IDE встроенного. Кто может - протестите и скажите чо не так. Ещё улучшили пару моменто…](https://t.me/NanoDev_mc/156)
-- [github.com/NanoDev1488/NanoDecompiler/releases/ Бета тест IDE встроенного. Кто может - протестите и скажите чо не так. Ещё улучшили пару моментов с на…](https://t.me/NanoDev_mc/155)
+- [Вау.. Нас уже 200 сабов 🥳](https://t.me/NanoDev_mc/162)
+- [✨ МАСШТАБНЫЙ КОНКУРС ✨ 🤩 Призы: 🐤 @somikyy 1️⃣ SNDuels 2️⃣ SNDuels 🌸 @delyPlugins 1️⃣ DelyTreasurys 2️⃣ DelyDungeons 🪺 @watesquad 1️⃣ 25 Telegram Star…](https://t.me/NanoDev_mc/161)
+- [И ещё как вам идея создать плагин: Которыф будет способствовать заменять команды других плагинов (удалять/добовлять) аддоны команд, команды которые бу…](https://t.me/NanoDev_mc/160)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
