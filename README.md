@@ -13,10 +13,10 @@
 <p align="center">✧･ﾟ: *✧･ﾟ:* 　　*:･ﾟ✧*:･ﾟ✧</p>
 
 <p align="center">
-  ➳ 🔧 Сейчас переписываю <a href="https://github.com/nanodev1488/NanoDecompiler"><b>ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ</b></a> на C++ (V2.0, раньше был на Python)<br/>
+  ➳ 🔧 Сейчас пилю для <a href="https://github.com/nanodev1488/NanoDecompiler"><b>ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ</b></a> новую версию V2.0<br/>
   ➳ 📡 Веду телеграм-канал: <a href="https://t.me/nanodev_MC">t.me/nanodev_MC</a><br/>
-  ➳ 🤝 Состою в сообществе <b>ʀᴜᴍɪɴᴇ</b><br/>
-  ➳ ⚡ Люблю активничать
+  ➳ 🤝 Сообщество - <b>ʀᴜᴍɪɴᴇ</b><br/>
+  ➳ ⚡ Люблю свою работу :)
 </p>
 
 <p align="center">
