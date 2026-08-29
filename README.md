@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> If you put water into a cup, it becomes the cup.
+> Get mad, then get over it.
 >
-> — Bruce Lee
+> — Colin Powell
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _fix build_
-- 🕒 Обновлено: 2026-08-28 17:58 UTC
+- 📝 Последний коммит: _fix_
+- 🕒 Обновлено: 2026-08-29 12:04 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned Deleted message](https://t.me/NanoDev_mc/172)
-- [🍀 Всем привет! С этого момента - АнгелСквад становится лучше. Владельцы теперь абсолютно новые, никак не связанные со старыми. Мы также провели чистку…](https://t.me/NanoDev_mc/171)
-- [Сегодня к вечеру релизну NanoForge и продолжу работу над NanoDecompiler ❤️ Upd: ещё сделаем адекватную аватарку программе](https://t.me/NanoDev_mc/169)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/179)
+- [NanoForge-1.0.1.jar](https://t.me/NanoDev_mc/178)
+- [🚀 NanoForge – создавай аддоны прямо на сервере без перезагрузок и Java-кода! Что умеет: · Создание аддонов через /nano create – привязка к любому плаг…](https://t.me/NanoDev_mc/177)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
