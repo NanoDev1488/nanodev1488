@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Get mad, then get over it.
+> There is nothing better than the encouragement of a good friend.
 >
-> — Colin Powell
+> — David Brinkley
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _fix_
-- 🕒 Обновлено: 2026-08-29 12:04 UTC
+- 📝 Последний коммит: _очередной фикс.._
+- 🕒 Обновлено: 2026-08-30 11:00 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [💜 GlowProtectHW - Мой простенький плагин на защиту с холика 🌋 В чем суть плагина Данный плагин повторяет механику с сервера HolyWorld, при взрыве плач…](https://t.me/NanoDev_mc/181)
 - [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/179)
 - [NanoForge-1.0.1.jar](https://t.me/NanoDev_mc/178)
-- [🚀 NanoForge – создавай аддоны прямо на сервере без перезагрузок и Java-кода! Что умеет: · Создание аддонов через /nano create – привязка к любому плаг…](https://t.me/NanoDev_mc/177)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
