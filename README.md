@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> There is nothing better than the encouragement of a good friend.
+> Learning is a weightless treasure you can always carry easily.
 >
-> — David Brinkley
+> — Chinese Proverb
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _очередной фикс.._
-- 🕒 Обновлено: 2026-08-30 11:00 UTC
+- 📝 Последний коммит: _v1.6.4 beta new fixes_
+- 🕒 Обновлено: 2026-08-31 12:21 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [💜 GlowProtectHW - Мой простенький плагин на защиту с холика 🌋 В чем суть плагина Данный плагин повторяет механику с сервера HolyWorld, при взрыве плач…](https://t.me/NanoDev_mc/181)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/179)
-- [NanoForge-1.0.1.jar](https://t.me/NanoDev_mc/178)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « Заходим- https://t.me/+Y2Wrn0PrY79lZjA6  Рандомно 10 мишек утром дам вам.кто не зайдет Мишку не дам!!!  #реклама »](https://t.me/NanoDev_mc/188)
+- [NanoDecompiler](https://t.me/NanoDev_mc/187)
+- [(медиа-пост)](https://t.me/NanoDev_mc/186)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
