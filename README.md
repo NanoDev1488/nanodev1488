@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Learning is a weightless treasure you can always carry easily.
+> Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.
 >
-> — Chinese Proverb
+> — Dan Millman
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _v1.6.4 beta new fixes_
-- 🕒 Обновлено: 2026-08-31 12:21 UTC
+- 🕒 Обновлено: 2026-09-01 10:54 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « Заходим- https://t.me/+Y2Wrn0PrY79lZjA6  Рандомно 10 мишек утром дам вам.кто не зайдет Мишку не дам!!!  #реклама »](https://t.me/NanoDev_mc/188)
-- [NanoDecompiler](https://t.me/NanoDev_mc/187)
-- [(медиа-пост)](https://t.me/NanoDev_mc/186)
+- [Всем привет (без сексуальных намерений)](https://t.me/NanoDev_mc/194)
+- [1 сентября.. 😭](https://t.me/NanoDev_mc/193)
+- [Призы выданы ❤️ Извините за задержку, готовлюсь к школе )](https://t.me/NanoDev_mc/191)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
