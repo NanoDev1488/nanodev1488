@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.
+> Failure is feedback. Learn from it and move on.
 >
-> — Paramahansa Yogananda
+> — Jack Butcher
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _v1.6.4 beta new fixes_
-- 🕒 Обновлено: 2026-09-02 10:20 UTC
+- 🕒 Обновлено: 2026-09-03 10:30 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Придумал* идею для плагина очередного ❤️ *Точнее предложили мне](https://t.me/NanoDev_mc/195)
-- [Всем привет (без сексуальных намерений)](https://t.me/NanoDev_mc/194)
-- [1 сентября.. 😭](https://t.me/NanoDev_mc/193)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « ❤️ Прайс рекламы:  На 3 дня - 50 рублей / 25 зв На 5 дней - 75 рублей / 65 зв На 7 дней - 150 рублей / 125 зв Навсегда - 220…](https://t.me/NanoDev_mc/198)
+- [❤️ Прайс рекламы: На 3 дня - 50 рублей / 25 зв На 5 дней - 75 рублей / 65 зв На 7 дней - 150 рублей / 125 зв Навсегда - 220 рублей / 175 зв Закреп - 2…](https://t.me/NanoDev_mc/197)
+- [Скоро составим прайс по рекламе в тгк ❤️ Udp: Топовые реакции ❤️](https://t.me/NanoDev_mc/196)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
