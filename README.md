@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Failure is feedback. Learn from it and move on.
+> Love never keeps a man from pursuing his destiny.
 >
-> — Jack Butcher
+> — Paulo Coelho
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _v1.6.4 beta new fixes_
-- 🕒 Обновлено: 2026-09-03 10:30 UTC
+- 🕒 Обновлено: 2026-09-04 10:18 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « ❤️ Прайс рекламы:  На 3 дня - 50 рублей / 25 зв На 5 дней - 75 рублей / 65 зв На 7 дней - 150 рублей / 125 зв Навсегда - 220…](https://t.me/NanoDev_mc/198)
-- [❤️ Прайс рекламы: На 3 дня - 50 рублей / 25 зв На 5 дней - 75 рублей / 65 зв На 7 дней - 150 рублей / 125 зв Навсегда - 220 рублей / 175 зв Закреп - 2…](https://t.me/NanoDev_mc/197)
-- [Скоро составим прайс по рекламе в тгк ❤️ Udp: Топовые реакции ❤️](https://t.me/NanoDev_mc/196)
+- [Скоро будем готовить апдейт NanoForge а после и NanoSeller Накопились баги, и то что хотелось бы исправить и увидеть](https://t.me/NanoDev_mc/201)
+- [🌎 Конкурс на Звёзды,Плагины и Кастомный Дизайн! Условия подписки: @WLstudi @Bexind_Studio @leshaorange @minerild Призы: 1️⃣ Первое Место Плагин Bexind…](https://t.me/NanoDev_mc/200)
+- [🌎 Конкурс на Звёзды,Плагины и Кастомный Дизайн! Условия подписки: @WLstudi @Bexind_Studio @leshaorange @minerild Призы: 1️⃣ Первое Место Плагин Bexind…](https://t.me/NanoDev_mc/199)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
