@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Winning isn't always championships.
+> The best way to find yourself is to lose yourself in the service of others.
 >
-> — Michael Jordan
+> — Mahatma Gandhi
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _Comment out verification step in build workflow_
-- 🕒 Обновлено: 2026-09-06 10:02 UTC
+- 📝 Последний коммит: _Update build-and-release.yml_
+- 🕒 Обновлено: 2026-09-07 11:15 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Все проголосовали?](https://t.me/NanoDev_mc/210)
-- [Актив проявляем. Скоро конкурс крутой будет. И впоследствии выпуск полноценной v2 версии где было исправленно ОЧЕНЬ много всего с версии 1.4 по 1.6.Х(…](https://t.me/NanoDev_mc/209)
-- [(медиа-пост)](https://t.me/NanoDev_mc/208)
+- [🕹 | NanoForge v 1.1.0 --> v 1.2.0 ℹ️ | Сегодня после обеда выйдет обновление моего плагина на аддоны/плагины. В новом обновлении будут глобальные изме…](https://t.me/NanoDev_mc/216)
+- [SpaceStudio 🤝 NanoDev](https://t.me/NanoDev_mc/215)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « Выпустил апдейт 1.6.6 и 1.7.0 где исправленно также кучу багов гуи и разнообразных проблем. А также отптимизировали работу в…](https://t.me/NanoDev_mc/214)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
