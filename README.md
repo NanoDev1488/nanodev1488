@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> The best way to find yourself is to lose yourself in the service of others.
+> Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.
 >
-> — Mahatma Gandhi
+> — Norman Vincent Peale
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _Update build-and-release.yml_
-- 🕒 Обновлено: 2026-09-07 11:15 UTC
+- 🕒 Обновлено: 2026-09-08 10:23 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [🕹 | NanoForge v 1.1.0 --> v 1.2.0 ℹ️ | Сегодня после обеда выйдет обновление моего плагина на аддоны/плагины. В новом обновлении будут глобальные изме…](https://t.me/NanoDev_mc/216)
-- [SpaceStudio 🤝 NanoDev](https://t.me/NanoDev_mc/215)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « Выпустил апдейт 1.6.6 и 1.7.0 где исправленно также кучу багов гуи и разнообразных проблем. А также отптимизировали работу в…](https://t.me/NanoDev_mc/214)
+- [⭐️ Всем привет, хочу сообщить что @FLIK095 (его канал: https://t.me/Smertniko ) скамер и не советую иметь с ним каких либой дел 🥕 Прошу максимально ра…](https://t.me/NanoDev_mc/220)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « »](https://t.me/NanoDev_mc/219)
+- [(медиа-пост)](https://t.me/NanoDev_mc/218)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
