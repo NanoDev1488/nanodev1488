@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.
+> No snowflake ever falls in the wrong place.
 >
-> — Norman Vincent Peale
+> — Zen Proverb
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _Update build-and-release.yml_
-- 🕒 Обновлено: 2026-09-08 10:23 UTC
+- 🕒 Обновлено: 2026-09-09 10:33 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [⭐️ Всем привет, хочу сообщить что @FLIK095 (его канал: https://t.me/Smertniko ) скамер и не советую иметь с ним каких либой дел 🥕 Прошу максимально ра…](https://t.me/NanoDev_mc/220)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « »](https://t.me/NanoDev_mc/219)
-- [(медиа-пост)](https://t.me/NanoDev_mc/218)
+- [💜 GlowProtectHW - Мой простенький плагин на защиту с холика 🌋 В чем суть плагина Данный плагин повторяет механику с сервера HolyWorld, при взрыве плач…](https://t.me/NanoDev_mc/223)
+- [Чучуть затягивается, Сегодня вечером 100% уже выложу и сделаю пост о нём](https://t.me/NanoDev_mc/222)
+- [🕹 | NanoForge v1.1.0 --> v1.2.0 ℹ️ | Сегодня после обеда выйдет обновление моего плагина на аддоны/плагины. В новом обновлении будут глобальные измене…](https://t.me/NanoDev_mc/221)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
