@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> No snowflake ever falls in the wrong place.
+> Experience is simply the name we give our mistakes.
 >
-> — Zen Proverb
+> — Oscar Wilde
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **1**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _Update build-and-release.yml_
-- 🕒 Обновлено: 2026-09-09 10:33 UTC
+- 🕒 Обновлено: 2026-09-10 10:21 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [💜 GlowProtectHW - Мой простенький плагин на защиту с холика 🌋 В чем суть плагина Данный плагин повторяет механику с сервера HolyWorld, при взрыве плач…](https://t.me/NanoDev_mc/223)
-- [Чучуть затягивается, Сегодня вечером 100% уже выложу и сделаю пост о нём](https://t.me/NanoDev_mc/222)
-- [🕹 | NanoForge v1.1.0 --> v1.2.0 ℹ️ | Сегодня после обеда выйдет обновление моего плагина на аддоны/плагины. В новом обновлении будут глобальные измене…](https://t.me/NanoDev_mc/221)
+- [🗺 Скоро залью апдейт 1.7.1 декомпилера на гитхаб. И напишу вам ChangeLog изменений 🧟](https://t.me/NanoDev_mc/228)
+- [@talixty123 у этой сладкой булочки др ❤️ Поздравьте его в лс кто то 😘](https://t.me/NanoDev_mc/227)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/226)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
