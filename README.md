@@ -57,26 +57,26 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Experience is simply the name we give our mistakes.
+> The heart that gives, gathers.
 >
-> — Oscar Wilde
+> — Lao Tzu
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
 
 <!--PROJECT-STATUS-START-->
-- ⭐ Звёзды: **1**
+- ⭐ Звёзды: **2**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _Update build-and-release.yml_
-- 🕒 Обновлено: 2026-09-10 10:21 UTC
+- 🕒 Обновлено: 2026-09-11 10:22 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [🗺 Скоро залью апдейт 1.7.1 декомпилера на гитхаб. И напишу вам ChangeLog изменений 🧟](https://t.me/NanoDev_mc/228)
-- [@talixty123 у этой сладкой булочки др ❤️ Поздравьте его в лс кто то 😘](https://t.me/NanoDev_mc/227)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/226)
+- [Ребят. Появилась идея создать наполовину кастомное ядро 💀 Чуть позже распишу вам её Как вам идея? 🔥 Реакции клоуна ставим если хотим чтобы было 🤡](https://t.me/NanoDev_mc/232)
+- [(медиа-пост)](https://t.me/NanoDev_mc/231)
+- [Второй файл - Linux Первый файл - Windows Остальные по ссылке в релизах ❤️](https://t.me/NanoDev_mc/230)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
