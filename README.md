@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Successful people ask better questions, and as a result, they get better answers.
+> If you're not failing every now and again, it's a sign you're not doing anything very innovative.
 >
-> — Tony Robbins
+> — Woody Allen
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **2**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _v1.7.5: цвета Minecraft (жирный текст), поиск в файле/проекте (FindBar/ProjectSearchModal)_
-- 🕒 Обновлено: 2026-09-14 11:25 UTC
+- 📝 Последний коммит: _update aa_
+- 🕒 Обновлено: 2026-09-15 10:48 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [🛢️ Это официальный телеграм канал GlowDev 🌎 Канал был создан 12.09.2026 ℹ️ Владельцем и админом этого канала являюсь я - @talixty123 🥇 Здесь будут: +…](https://t.me/NanoDev_mc/254)
-- [@plugmansliv 🤝 @nanodev_mc](https://t.me/NanoDev_mc/253)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ NanoForge-1.3.0.jarВыкачу ещё один апдейт и потом пойдем по NanoSeller 🤡 15 🤡 - выкатываю обнову (Поднимите актив пожалуйста ❤️ )](https://t.me/NanoDev_mc/252)
+- [(медиа-пост)](https://t.me/NanoDev_mc/260)
+- [Какой обновляем следующим?](https://t.me/NanoDev_mc/259)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/258)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
