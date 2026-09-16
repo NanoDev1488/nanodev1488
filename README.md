@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> If you're not failing every now and again, it's a sign you're not doing anything very innovative.
+> Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.
 >
-> — Woody Allen
+> — Gurbaksh Chahal
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **2**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _update aa_
-- 🕒 Обновлено: 2026-09-15 10:48 UTC
+- 📝 Последний коммит: _update, add new buttons and fix 1 problem :)_
+- 🕒 Обновлено: 2026-09-16 10:37 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [(медиа-пост)](https://t.me/NanoDev_mc/260)
-- [Какой обновляем следующим?](https://t.me/NanoDev_mc/259)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/258)
+- [NanoDev 🤝 AtomicSqd](https://t.me/NanoDev_mc/266)
+- [Ждите апдейты и скорые новости. А также я устроился кодером в GlowDev и буду писать плуги тоже и для них ❤️ (жалко зп нету 😭 ) Также в декомпилер мы д…](https://t.me/NanoDev_mc/265)
+- [☢️ Итог | Сначала проходимся по NanoMarket, после же по NanoAdmin и в конце NanoSpec](https://t.me/NanoDev_mc/264)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
