@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.
+> When you have to make a choice and don't make it, that is in itself a choice.
 >
-> — Gurbaksh Chahal
+> — William James
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **2**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _update, add new buttons and fix 1 problem :)_
-- 🕒 Обновлено: 2026-09-16 10:37 UTC
+- 📝 Последний коммит: _update blya_
+- 🕒 Обновлено: 2026-09-17 10:46 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [В эти дни состоятся масштабные апдейты NanoDecompiler под названием "Мчага" 😭 • Будет исправленны многие баги как раз таки одним апдейтом.. И добавлен…](https://t.me/NanoDev_mc/268)
+- [СЛИВ СБОРКИ WANDYGRIEF 1.16.5 - 1.21.11 весит сборка 900 MB Пароль от архива: @HataNoya ИСТОЧНИК: @HataNoya спасибо за скачивания](https://t.me/NanoDev_mc/267)
 - [NanoDev 🤝 AtomicSqd](https://t.me/NanoDev_mc/266)
-- [Ждите апдейты и скорые новости. А также я устроился кодером в GlowDev и буду писать плуги тоже и для них ❤️ (жалко зп нету 😭 ) Также в декомпилер мы д…](https://t.me/NanoDev_mc/265)
-- [☢️ Итог | Сначала проходимся по NanoMarket, после же по NanoAdmin и в конце NanoSpec](https://t.me/NanoDev_mc/264)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
