@@ -57,26 +57,26 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> When you have to make a choice and don't make it, that is in itself a choice.
+> A diamond is a piece of charcoal that handled stress exceptionally well.
 >
-> — William James
+> — Unknown
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
 
 <!--PROJECT-STATUS-START-->
-- ⭐ Звёзды: **2**
+- ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _update blya_
-- 🕒 Обновлено: 2026-09-17 10:46 UTC
+- 📝 Последний коммит: _update v1.7.10.._
+- 🕒 Обновлено: 2026-09-19 10:05 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [В эти дни состоятся масштабные апдейты NanoDecompiler под названием "Мчага" 😭 • Будет исправленны многие баги как раз таки одним апдейтом.. И добавлен…](https://t.me/NanoDev_mc/268)
-- [СЛИВ СБОРКИ WANDYGRIEF 1.16.5 - 1.21.11 весит сборка 900 MB Пароль от архива: @HataNoya ИСТОЧНИК: @HataNoya спасибо за скачивания](https://t.me/NanoDev_mc/267)
-- [NanoDev 🤝 AtomicSqd](https://t.me/NanoDev_mc/266)
+- [(медиа-пост)](https://t.me/NanoDev_mc/286)
+- [Было заготовленно 3 версии 1.7.X, но по случившимся обстоятельствам пришлось обьеденить в одну 1.8.0 версию которая выйдет позже чуть. Я там пофиксил…](https://t.me/NanoDev_mc/282)
+- [Было заготовленно 3 версии 1.7.X, но по случившимся обстоятельствам пришлось обьеденить в одну 1.8.0 версию которая выйдет позже чуть. Я там пофиксил…](https://t.me/NanoDev_mc/279)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
