@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> A diamond is a piece of charcoal that handled stress exceptionally well.
+> What we know is a drop, what we don't know is an ocean.
 >
-> — Unknown
+> — Isaac Newton
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _update v1.7.10.._
-- 🕒 Обновлено: 2026-09-19 10:05 UTC
+- 📝 Последний коммит: _update v1.8.2_
+- 🕒 Обновлено: 2026-09-20 10:23 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [Щас ещё чучуть. Мне осталось дописать плагин на Rtp для GlowDev и начнём с NanoMarket.. 🥳](https://t.me/NanoDev_mc/287)
 - [(медиа-пост)](https://t.me/NanoDev_mc/286)
 - [Было заготовленно 3 версии 1.7.X, но по случившимся обстоятельствам пришлось обьеденить в одну 1.8.0 версию которая выйдет позже чуть. Я там пофиксил…](https://t.me/NanoDev_mc/282)
-- [Было заготовленно 3 версии 1.7.X, но по случившимся обстоятельствам пришлось обьеденить в одну 1.8.0 версию которая выйдет позже чуть. Я там пофиксил…](https://t.me/NanoDev_mc/279)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
