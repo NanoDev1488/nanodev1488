@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> What we know is a drop, what we don't know is an ocean.
+> But better die than live mechanically a life that is a repetition of repetitions.
 >
-> — Isaac Newton
+> — D. H. Lawrence
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _update v1.8.2_
-- 🕒 Обновлено: 2026-09-20 10:23 UTC
+- 📝 Последний коммит: _update v1.7.5_
+- 🕒 Обновлено: 2026-09-21 11:39 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Щас ещё чучуть. Мне осталось дописать плагин на Rtp для GlowDev и начнём с NanoMarket.. 🥳](https://t.me/NanoDev_mc/287)
-- [(медиа-пост)](https://t.me/NanoDev_mc/286)
-- [Было заготовленно 3 версии 1.7.X, но по случившимся обстоятельствам пришлось обьеденить в одну 1.8.0 версию которая выйдет позже чуть. Я там пофиксил…](https://t.me/NanoDev_mc/282)
+- [👀 Прайс рекламы: На 3 дня - 50 рублей / 25 зв На 5 дней - 75 рублей / 65 зв На 7 дней - 150 рублей / 125 зв Навсегда - 220 рублей / 175 зв Закреп - 20…](https://t.me/NanoDev_mc/292)
+- [](https://t.me/NanoDev_mc/291)
+- [(медиа-пост)](https://t.me/NanoDev_mc/289)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
