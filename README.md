@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> But better die than live mechanically a life that is a repetition of repetitions.
+> Successful people are not without problems. They're simply people who've learned to solve their problems.
 >
-> — D. H. Lawrence
+> — Earl Nightingale
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _update v1.7.5_
-- 🕒 Обновлено: 2026-09-21 11:39 UTC
+- 🕒 Обновлено: 2026-09-22 10:43 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [👀 Прайс рекламы: На 3 дня - 50 рублей / 25 зв На 5 дней - 75 рублей / 65 зв На 7 дней - 150 рублей / 125 зв Навсегда - 220 рублей / 175 зв Закреп - 20…](https://t.me/NanoDev_mc/292)
-- [](https://t.me/NanoDev_mc/291)
-- [(медиа-пост)](https://t.me/NanoDev_mc/289)
+- [👍 NanoRTP - 1.0 👍 О плуге: • Случайная телепортация: /rtp (ближние координаты) и /rtpfar (дальние) • Телепорт рядом с регионом случайного игрока — /rt…](https://t.me/NanoDev_mc/304)
+- [(медиа-пост)](https://t.me/NanoDev_mc/301)
+- [(медиа-пост)](https://t.me/NanoDev_mc/300)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
