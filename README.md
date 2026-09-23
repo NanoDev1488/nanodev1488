@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Successful people are not without problems. They're simply people who've learned to solve their problems.
+> We are willing to believe anything other than the truth.
 >
-> — Earl Nightingale
+> — Carlos Ruiz Zafon
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _update v1.7.5_
-- 🕒 Обновлено: 2026-09-22 10:43 UTC
+- 🕒 Обновлено: 2026-09-23 10:34 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [👍 NanoRestart - v1.0.0 👍 О плуге: • Настраиваемое расписание перезагрузок по времени • Система уведомлений в чате и через Title-сообщения • Автоматиче…](https://t.me/NanoDev_mc/305)
 - [👍 NanoRTP - 1.0 👍 О плуге: • Случайная телепортация: /rtp (ближние координаты) и /rtpfar (дальние) • Телепорт рядом с регионом случайного игрока — /rt…](https://t.me/NanoDev_mc/304)
 - [(медиа-пост)](https://t.me/NanoDev_mc/301)
-- [(медиа-пост)](https://t.me/NanoDev_mc/300)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
