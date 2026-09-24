@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> We are willing to believe anything other than the truth.
+> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.
 >
-> — Carlos Ruiz Zafon
+> — Gary Keller
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _update v1.7.5_
-- 🕒 Обновлено: 2026-09-23 10:34 UTC
+- 📝 Последний коммит: _update v1.9.9 add rw in redactor_
+- 🕒 Обновлено: 2026-09-24 10:53 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [👍 NanoRestart - v1.0.0 👍 О плуге: • Настраиваемое расписание перезагрузок по времени • Система уведомлений в чате и через Title-сообщения • Автоматиче…](https://t.me/NanoDev_mc/305)
-- [👍 NanoRTP - 1.0 👍 О плуге: • Случайная телепортация: /rtp (ближние координаты) и /rtpfar (дальние) • Телепорт рядом с регионом случайного игрока — /rt…](https://t.me/NanoDev_mc/304)
-- [(медиа-пост)](https://t.me/NanoDev_mc/301)
+- [✨ МАСШТАБНЫЙ КОНКУРС ✨ 🤩 Призы: 🔮 GlowDev 1. GlowZamokHW 2. GlowZamokHW 3. GlowZamokHW 4. GlowZamokHW 5. GlowZamokHW ℹ️ SaturnStudio 6. LagKILLER 7. С…](https://t.me/NanoDev_mc/308)
+- [NanoRestart.jar](https://t.me/NanoDev_mc/307)
+- [(медиа-пост)](https://t.me/NanoDev_mc/306)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
