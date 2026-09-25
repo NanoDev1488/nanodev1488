@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.
+> Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.
 >
-> — Gary Keller
+> — Brian Tracy
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _update v1.9.9 add rw in redactor_
-- 🕒 Обновлено: 2026-09-24 10:53 UTC
+- 🕒 Обновлено: 2026-09-25 10:56 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [✨ МАСШТАБНЫЙ КОНКУРС ✨ 🤩 Призы: 🔮 GlowDev 1. GlowZamokHW 2. GlowZamokHW 3. GlowZamokHW 4. GlowZamokHW 5. GlowZamokHW ℹ️ SaturnStudio 6. LagKILLER 7. С…](https://t.me/NanoDev_mc/308)
-- [NanoRestart.jar](https://t.me/NanoDev_mc/307)
-- [(медиа-пост)](https://t.me/NanoDev_mc/306)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ 💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждёте апдейт…](https://t.me/NanoDev_mc/312)
+- [✨ МАСШТАБНЫЙ КОНКУРС ✨ 🤩 Призы: 🔮 GlowDev 1. GlowZamokHW 2. GlowZamokHW 3. GlowZamokHW 4. GlowZamokHW 5. GlowZamokHW ℹ️ SaturnStudio 6. LagKILLER 7. С…](https://t.me/NanoDev_mc/311)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « 💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждё…](https://t.me/NanoDev_mc/310)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
