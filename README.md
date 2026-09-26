@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.
+> We build too many walls and not enough bridges.
 >
-> — Brian Tracy
+> — Isaac Newton
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _update v1.9.9 add rw in redactor_
-- 🕒 Обновлено: 2026-09-25 10:56 UTC
+- 📝 Последний коммит: _update v1.9.13_
+- 🕒 Обновлено: 2026-09-26 10:36 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ 💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждёте апдейт…](https://t.me/NanoDev_mc/312)
-- [✨ МАСШТАБНЫЙ КОНКУРС ✨ 🤩 Призы: 🔮 GlowDev 1. GlowZamokHW 2. GlowZamokHW 3. GlowZamokHW 4. GlowZamokHW 5. GlowZamokHW ℹ️ SaturnStudio 6. LagKILLER 7. С…](https://t.me/NanoDev_mc/311)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « 💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждё…](https://t.me/NanoDev_mc/310)
+- [(медиа-пост)](https://t.me/NanoDev_mc/320)
+- [⚡️ | NanoForge v1.4.0 --> v1.5.0 🌎 | Новое обновление плагина на аддоны! Что нового: — Action particle — частицы в позиции игрока — scope: global у co…](https://t.me/NanoDev_mc/319)
+- [💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждёте апдейта? ⚡️ | 20 реакци…](https://t.me/NanoDev_mc/318)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
