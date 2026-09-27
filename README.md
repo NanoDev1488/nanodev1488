@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> We build too many walls and not enough bridges.
+> Intense love does not measure, it just gives.
 >
-> — Isaac Newton
+> — Mother Teresa
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _update v1.9.13_
-- 🕒 Обновлено: 2026-09-26 10:36 UTC
+- 🕒 Обновлено: 2026-09-27 11:08 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [(медиа-пост)](https://t.me/NanoDev_mc/320)
-- [⚡️ | NanoForge v1.4.0 --> v1.5.0 🌎 | Новое обновление плагина на аддоны! Что нового: — Action particle — частицы в позиции игрока — scope: global у co…](https://t.me/NanoDev_mc/319)
-- [💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждёте апдейта? ⚡️ | 20 реакци…](https://t.me/NanoDev_mc/318)
+- [Скоро буду в мск (дома) и начну работать дальше 😗](https://t.me/NanoDev_mc/323)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/322)
+- [💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждёте апдейта? ⚡️ | 20 реакци…](https://t.me/NanoDev_mc/321)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
