@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Intense love does not measure, it just gives.
+> Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.
 >
-> — Mother Teresa
+> — Robin Sharma
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **5**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _update v1.9.13_
-- 🕒 Обновлено: 2026-09-27 11:08 UTC
+- 📝 Последний коммит: _update v1.9.40: ignore initial capacity in StringBuilder constructor concatenation_
+- 🕒 Обновлено: 2026-09-28 12:34 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [Скоро буду в мск (дома) и начну работать дальше 😗](https://t.me/NanoDev_mc/324)
 - [Скоро буду в мск (дома) и начну работать дальше 😗](https://t.me/NanoDev_mc/323)
 - [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/322)
-- [💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждёте апдейта? ⚡️ | 20 реакци…](https://t.me/NanoDev_mc/321)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
