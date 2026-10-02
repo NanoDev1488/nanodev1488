@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> It always started with a dream.
+> We think too much and feel too little.
 >
-> — Conrad Hilton
+> — Charlie Chaplin
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _fix(build): run local typescript directly in build:electron script_
-- 🕒 Обновлено: 2026-10-01 12:11 UTC
+- 🕒 Обновлено: 2026-10-02 11:41 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Отпишите в коментарии что вы хотите тогда](https://t.me/NanoDev_mc/332)
-- [@nanodev_mc ✅ @delyPlugins](https://t.me/NanoDev_mc/331)
-- [(медиа-пост)](https://t.me/NanoDev_mc/330)
+- [🔥 FLOSTGRIEF — СКОРО ОТКРЫТИЕ! 🔥 Ищешь сервер, где можно нормально поиграть, развиться, собрать свою команду и устроить настоящий движ? Тогда залетай…](https://t.me/NanoDev_mc/337)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « 🏆 ЕБАНУТЫЙ РОЗЫГРЫШ НА 27 ПРИЗОВ! 🏆 Призы: 🔥 SpaceStudio: 1️⃣ SpaceExplosionsControl 💥 2️⃣ SpaceExplosionsControl 💥 3️⃣ Само…](https://t.me/NanoDev_mc/335)
+- [🏆 ЕБАНУТЫЙ РОЗЫГРЫШ НА 27 ПРИЗОВ! 🏆 Призы: 🔥 SpaceStudio : 1️⃣ SpaceExplosionsControl 💥 2️⃣ SpaceExplosionsControl 💥 3️⃣ Самописный плагин лёгкой слож…](https://t.me/NanoDev_mc/334)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
