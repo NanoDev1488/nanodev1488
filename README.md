@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> We think too much and feel too little.
+> You cannot find peace by avoiding life.
 >
-> — Charlie Chaplin
+> — Virginia Woolf
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _fix(build): run local typescript directly in build:electron script_
-- 🕒 Обновлено: 2026-10-02 11:41 UTC
+- 🕒 Обновлено: 2026-10-03 10:55 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [🔥 FLOSTGRIEF — СКОРО ОТКРЫТИЕ! 🔥 Ищешь сервер, где можно нормально поиграть, развиться, собрать свою команду и устроить настоящий движ? Тогда залетай…](https://t.me/NanoDev_mc/337)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned « 🏆 ЕБАНУТЫЙ РОЗЫГРЫШ НА 27 ПРИЗОВ! 🏆 Призы: 🔥 SpaceStudio: 1️⃣ SpaceExplosionsControl 💥 2️⃣ SpaceExplosionsControl 💥 3️⃣ Само…](https://t.me/NanoDev_mc/335)
-- [🏆 ЕБАНУТЫЙ РОЗЫГРЫШ НА 27 ПРИЗОВ! 🏆 Призы: 🔥 SpaceStudio : 1️⃣ SpaceExplosionsControl 💥 2️⃣ SpaceExplosionsControl 💥 3️⃣ Самописный плагин лёгкой слож…](https://t.me/NanoDev_mc/334)
+- [(медиа-пост)](https://t.me/NanoDev_mc/343)
+- [⛄️ | NanoMarket v2.0.0 — масштабный релиз ✅ | Выпустил NanoMarket — серверный рынок предметов для Paper/Spigot 1.20.x с оплатой через Vault. Переписал…](https://t.me/NanoDev_mc/342)
+- [🏆 ЕБАНУТЫЙ РОЗЫГРЫШ НА 27 ПРИЗОВ! 🏆 Призы: 🔥 SpaceStudio: 1️⃣ SpaceExplosionsControl 💥 2️⃣ SpaceExplosionsControl 💥 3️⃣ Самописный плагин лёгкой сложн…](https://t.me/NanoDev_mc/340)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
