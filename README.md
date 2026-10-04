@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> You cannot find peace by avoiding life.
+> A wise man will be master of his mind, a fool will be its slave.
 >
-> — Virginia Woolf
+> — Publilius Syrus
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _fix(build): run local typescript directly in build:electron script_
-- 🕒 Обновлено: 2026-10-03 10:55 UTC
+- 🕒 Обновлено: 2026-10-04 11:37 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [(медиа-пост)](https://t.me/NanoDev_mc/343)
-- [⛄️ | NanoMarket v2.0.0 — масштабный релиз ✅ | Выпустил NanoMarket — серверный рынок предметов для Paper/Spigot 1.20.x с оплатой через Vault. Переписал…](https://t.me/NanoDev_mc/342)
-- [🏆 ЕБАНУТЫЙ РОЗЫГРЫШ НА 27 ПРИЗОВ! 🏆 Призы: 🔥 SpaceStudio: 1️⃣ SpaceExplosionsControl 💥 2️⃣ SpaceExplosionsControl 💥 3️⃣ Самописный плагин лёгкой сложн…](https://t.me/NanoDev_mc/340)
+- [Работа над NanoDecompiler немного замедляется, так как уже реально пора делать обновления других полезным, и старым плагинам моим 😗 В течении недели ж…](https://t.me/NanoDev_mc/346)
+- [(медиа-пост)](https://t.me/NanoDev_mc/345)
+- [(медиа-пост)](https://t.me/NanoDev_mc/344)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
