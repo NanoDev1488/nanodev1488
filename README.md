@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> A wise man will be master of his mind, a fool will be its slave.
+> You know you are on the road to success if you would do your job and not be paid for it.
 >
-> — Publilius Syrus
+> — Oprah Winfrey
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _fix(build): run local typescript directly in build:electron script_
-- 🕒 Обновлено: 2026-10-04 11:37 UTC
+- 📝 Последний коммит: _Update README.md_
+- 🕒 Обновлено: 2026-10-05 13:14 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Работа над NanoDecompiler немного замедляется, так как уже реально пора делать обновления других полезным, и старым плагинам моим 😗 В течении недели ж…](https://t.me/NanoDev_mc/346)
-- [(медиа-пост)](https://t.me/NanoDev_mc/345)
-- [(медиа-пост)](https://t.me/NanoDev_mc/344)
+- [(медиа-пост)](https://t.me/NanoDev_mc/350)
+- [У меня для вас идея есть.. Я МОГУ СЛИВАТЬ различные плагины, но только если сделаю бота как раньше были по ключам 😗 Как вам идея??? Опрос ниже >>](https://t.me/NanoDev_mc/349)
+- [@NanoDev_mc 🤝 @NativeStudio_pw](https://t.me/NanoDev_mc/347)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
