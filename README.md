@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> You know you are on the road to success if you would do your job and not be paid for it.
+> As you think, you travel, and as you love, you attract.
 >
-> — Oprah Winfrey
+> — James Allen
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _Update README.md_
-- 🕒 Обновлено: 2026-10-05 13:14 UTC
+- 📝 Последний коммит: _fix: sync installed app directory in updater, add candidate paths for 7za, filter unused crossing temps, and fix documentation URLs_
+- 🕒 Обновлено: 2026-10-06 12:33 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [(медиа-пост)](https://t.me/NanoDev_mc/350)
-- [У меня для вас идея есть.. Я МОГУ СЛИВАТЬ различные плагины, но только если сделаю бота как раньше были по ключам 😗 Как вам идея??? Опрос ниже >>](https://t.me/NanoDev_mc/349)
-- [@NanoDev_mc 🤝 @NativeStudio_pw](https://t.me/NanoDev_mc/347)
+- [🛡 Нужна хорошая защита сервера от ботов? Давно искали нормальную защиту, но бесплатные решения либо работают нестабильно, либо имеют слишком много огр…](https://t.me/NanoDev_mc/354)
+- [🛡 Нужна хорошая защита сервера от ботов? Давно искали нормальную защиту, но бесплатные решения либо работают нестабильно, либо имеют слишком много огр…](https://t.me/NanoDev_mc/353)
+- [Создал подробную документацию — тут Объяснил все о чём меня спрашивали, и даже больше И ещё скоро последний в этом месяце адпейт 1.6.1 выйдет чуть поз…](https://t.me/NanoDev_mc/352)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
