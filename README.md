@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> As you think, you travel, and as you love, you attract.
+> One is never afraid of the unknown; one is afraid of the known coming to an end.
 >
-> — James Allen
+> — Jiddu Krishnamurti
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _fix: sync installed app directory in updater, add candidate paths for 7za, filter unused crossing temps, and fix documentation URLs_
-- 🕒 Обновлено: 2026-10-06 12:33 UTC
+- 🕒 Обновлено: 2026-10-07 12:26 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждёте апдейта? ⚡️ | 20 реакци…](https://t.me/NanoDev_mc/357)
+- [🏆 ЕБАНУТЫЙ РОЗЫГРЫШ НА 27 ПРИЗОВ! 🏆 Призы: 🔥 SpaceStudio: 1️⃣ SpaceExplosionsControl 💥 2️⃣ SpaceExplosionsControl 💥 3️⃣ Самописный плагин лёгкой сложн…](https://t.me/NanoDev_mc/356)
 - [🛡 Нужна хорошая защита сервера от ботов? Давно искали нормальную защиту, но бесплатные решения либо работают нестабильно, либо имеют слишком много огр…](https://t.me/NanoDev_mc/354)
-- [🛡 Нужна хорошая защита сервера от ботов? Давно искали нормальную защиту, но бесплатные решения либо работают нестабильно, либо имеют слишком много огр…](https://t.me/NanoDev_mc/353)
-- [Создал подробную документацию — тут Объяснил все о чём меня спрашивали, и даже больше И ещё скоро последний в этом месяце адпейт 1.6.1 выйдет чуть поз…](https://t.me/NanoDev_mc/352)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
