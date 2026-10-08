@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> One is never afraid of the unknown; one is afraid of the known coming to an end.
+> None of us can change our yesterdays but all of us can change our tomorrows.
 >
-> — Jiddu Krishnamurti
+> — Colin Powell
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _fix: sync installed app directory in updater, add candidate paths for 7za, filter unused crossing temps, and fix documentation URLs_
-- 🕒 Обновлено: 2026-10-07 12:26 UTC
+- 📝 Последний коммит: _fix(engine): balance braces around XOR deobfuscator and synthetic accessors in stackvm_
+- 🕒 Обновлено: 2026-10-08 12:35 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [💬 | Бля, ведь я сделал уже 67 комитов в NanoDecompiler. Осталось ведь просто исправить баги гуи и перейти к движку. А вы ждёте апдейта? ⚡️ | 20 реакци…](https://t.me/NanoDev_mc/357)
-- [🏆 ЕБАНУТЫЙ РОЗЫГРЫШ НА 27 ПРИЗОВ! 🏆 Призы: 🔥 SpaceStudio: 1️⃣ SpaceExplosionsControl 💥 2️⃣ SpaceExplosionsControl 💥 3️⃣ Самописный плагин лёгкой сложн…](https://t.me/NanoDev_mc/356)
-- [🛡 Нужна хорошая защита сервера от ботов? Давно искали нормальную защиту, но бесплатные решения либо работают нестабильно, либо имеют слишком много огр…](https://t.me/NanoDev_mc/354)
+- [](https://t.me/NanoDev_mc/364)
+- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/363)
+- [(медиа-пост)](https://t.me/NanoDev_mc/362)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
