@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> None of us can change our yesterdays but all of us can change our tomorrows.
+> Action is the foundational key to all success.
 >
-> — Colin Powell
+> — Pablo Picasso
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _fix(engine): balance braces around XOR deobfuscator and synthetic accessors in stackvm_
-- 🕒 Обновлено: 2026-10-08 12:35 UTC
+- 📝 Последний коммит: _chore_clean_
+- 🕒 Обновлено: 2026-10-09 12:23 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [](https://t.me/NanoDev_mc/364)
+- [Время ушло на отписку. 16 и 17 места выданы ❤️](https://t.me/NanoDev_mc/365)
 - [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/363)
-- [(медиа-пост)](https://t.me/NanoDev_mc/362)
+- [(медиа-пост)](https://t.me/NanoDev_mc/361)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
