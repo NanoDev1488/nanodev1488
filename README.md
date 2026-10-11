@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
 >
-> — Norman Vincent Peale
+> — Brian Tracy
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _Update package.json_
-- 🕒 Обновлено: 2026-10-10 11:42 UTC
+- 🕒 Обновлено: 2026-10-11 11:55 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [AuthSystem — Аутхентификационная система Мощный плагин на аутентификацию, с защитой от перебора паролей 😗 SSR-7JWX-XK01 SSR-SPK1-IXPS SSR-Z99D-4PXC SS…](https://t.me/NanoDev_mc/368)
+- [✨ ВСТРЕЧАЙТЕ - SPACEREDEEM! 🚀 Рады представить нового бота SpaceStudio для активации эксклюзивных билетов. 📋 Как получить билеты : 1️⃣ Подпишитесь на…](https://t.me/NanoDev_mc/367)
 - [Вчера данному каналу наступило 3 месяца 🥳 Рад что есть хоть какой-то, но очень растроен что он проседает сильно и без помощи других его никак не восст…](https://t.me/NanoDev_mc/366)
-- [Время ушло на отписку. 16 и 17 места выданы ❤️](https://t.me/NanoDev_mc/365)
-- [ɴᴀɴᴏᴅᴇᴠ • ʀᴇʙᴏᴏᴛ pinned a file](https://t.me/NanoDev_mc/363)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
