@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
+> Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.
 >
-> — Brian Tracy
+> — Kahlil Gibran
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _Update package.json_
-- 🕒 Обновлено: 2026-10-11 11:55 UTC
+- 🕒 Обновлено: 2026-10-12 14:05 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [Детки за молнию прошу ❤️](https://t.me/NanoDev_mc/370)
+- [Конкурс на 50 🌟 🔔 Участники: 1. @w11cutt - 👍 2. @gardlyx - 🍓 3. @Romakrutoigg - 🌭 4. @neblan - ❤️ 5. @GaddyMain - 🍌 6. @zakat1she - 🏆 7. @radoqi - ⚡️…](https://t.me/NanoDev_mc/369)
 - [AuthSystem — Аутхентификационная система Мощный плагин на аутентификацию, с защитой от перебора паролей 😗 SSR-7JWX-XK01 SSR-SPK1-IXPS SSR-Z99D-4PXC SS…](https://t.me/NanoDev_mc/368)
-- [✨ ВСТРЕЧАЙТЕ - SPACEREDEEM! 🚀 Рады представить нового бота SpaceStudio для активации эксклюзивных билетов. 📋 Как получить билеты : 1️⃣ Подпишитесь на…](https://t.me/NanoDev_mc/367)
-- [Вчера данному каналу наступило 3 месяца 🥳 Рад что есть хоть какой-то, но очень растроен что он проседает сильно и без помощи других его никак не восст…](https://t.me/NanoDev_mc/366)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
