@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> A clear conscience never fears midnight knocking.
+> Attitude, not aptitude, determines altitude.
 >
-> — Chinese Proverb
+> — Zig Ziglar
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _feat: release v1.9.163 - fix package deobfuscation, CI caching and author plugins tests_
-- 🕒 Обновлено: 2026-10-13 13:18 UTC
+- 🕒 Обновлено: 2026-10-14 10:58 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
+- [Привет дорогие игроки 👋 💜 Сервер представляет из себя полную копию ReallyWorld , но с кучей своих фишек, а главное бесплатных наград и облегчённым игр…](https://t.me/NanoDev_mc/373)
+- [Скоро апдейт выйдет декомпилеру. Пофиксим новые баги](https://t.me/NanoDev_mc/372)
 - [Человек который декомпилировал ItemsAdder отзовись 😭](https://t.me/NanoDev_mc/371)
-- [AuthSystem — Аутхентификационная система Мощный плагин на аутентификацию, с защитой от перебора паролей 😗 SSR-7JWX-XK01 SSR-SPK1-IXPS SSR-Z99D-4PXC SS…](https://t.me/NanoDev_mc/368)
-- [✨ ВСТРЕЧАЙТЕ - SPACEREDEEM! 🚀 Рады представить нового бота SpaceStudio для активации эксклюзивных билетов. 📋 Как получить билеты : 1️⃣ Подпишитесь на…](https://t.me/NanoDev_mc/367)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
