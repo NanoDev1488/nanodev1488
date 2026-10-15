@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Attitude, not aptitude, determines altitude.
+> By perseverance the snail reached the ark.
 >
-> — Zig Ziglar
+> — Charles Spurgeon
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -68,15 +68,15 @@
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
 - 📝 Последний коммит: _feat: release v1.9.163 - fix package deobfuscation, CI caching and author plugins tests_
-- 🕒 Обновлено: 2026-10-14 10:58 UTC
+- 🕒 Обновлено: 2026-10-15 10:39 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Привет дорогие игроки 👋 💜 Сервер представляет из себя полную копию ReallyWorld , но с кучей своих фишек, а главное бесплатных наград и облегчённым игр…](https://t.me/NanoDev_mc/373)
-- [Скоро апдейт выйдет декомпилеру. Пофиксим новые баги](https://t.me/NanoDev_mc/372)
-- [Человек который декомпилировал ItemsAdder отзовись 😭](https://t.me/NanoDev_mc/371)
+- [NanoForge также будет со временем обновлятся. И многие проекты в моих репозиториях](https://t.me/NanoDev_mc/377)
+- [Ребят. Я ухожу из гнилого RuMine. Решение остаётся окончательным. Но также я иду в обычные Ру Програмисты, для изучения других отраслей, и других НОРМ…](https://t.me/NanoDev_mc/376)
+- [Почему не хотите?(](https://t.me/NanoDev_mc/375)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
