@@ -57,9 +57,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> By perseverance the snail reached the ark.
+> Nothing important is learned; it is simply remembered.
 >
-> — Charles Spurgeon
+> — Carlos Ruiz Zafon
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -67,16 +67,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _feat: release v1.9.163 - fix package deobfuscation, CI caching and author plugins tests_
-- 🕒 Обновлено: 2026-10-15 10:39 UTC
+- 📝 Последний коммит: _docs: update PROJECT_STATE with ItemsAdder 3.2M LOC audit results_
+- 🕒 Обновлено: 2026-10-16 10:26 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [NanoForge также будет со временем обновлятся. И многие проекты в моих репозиториях](https://t.me/NanoDev_mc/377)
-- [Ребят. Я ухожу из гнилого RuMine. Решение остаётся окончательным. Но также я иду в обычные Ру Програмисты, для изучения других отраслей, и других НОРМ…](https://t.me/NanoDev_mc/376)
-- [Почему не хотите?(](https://t.me/NanoDev_mc/375)
+- [Кстати я ещё апдейты завёз. Можете скачать: github.com/NanoDev1488/NanoForge/releases Там ещё я готовлю математическое обновление, более 1к строк прав…](https://t.me/NanoDev_mc/410)
+- [https://t.me/rubup?startapp=r_6486689289_390467 Крутаните по ссылке плиззз](https://t.me/NanoDev_mc/408)
+- [github.com/NanoDev1488/NanoRp-creator/ Чекайте чо начал делать ❤️](https://t.me/NanoDev_mc/407)
 <!--TG-FEED-END-->
 
 <p align="center">▄︻デ══━一 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 一━══デ︻▄</p>
