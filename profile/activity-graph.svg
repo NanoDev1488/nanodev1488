@@ -1,0 +1,111 @@
+<svg width="820" height="280" viewBox="0 0 820 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+  <title id="titleId">NanoDev's Activity Graph</title>
+  <desc id="descId">GitHub activity contributions over the last 12 months</desc>
+  <defs>
+    <linearGradient id="areaGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00FF9C" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#00B4D8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#141321" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient id="lineGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00FF9C"/>
+      <stop offset="50%" stop-color="#00B4D8"/>
+      <stop offset="100%" stop-color="#fe428e"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .header {
+      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #fe428e;
+    }
+    .stat-badge {
+      font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #a9fef7;
+    }
+    .grid-text {
+      font: 500 11px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #708090;
+    }
+    .axis-text {
+      font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #a9fef7;
+    }
+    .data-dot {
+      transition: all 0.3s ease;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect x="0.5" y="0.5" width="819" height="279" rx="6" fill="#141321" stroke="#2c5364" stroke-opacity="0.4"/>
+
+  <!-- Title & Total -->
+  <g transform="translate(60, 35)">
+    <text x="0" y="0" class="header">Activity Graph</text>
+    <text x="720" y="0" text-anchor="end" class="stat-badge">Total Contributions: 249</text>
+  </g>
+
+  <!-- Grid -->
+  
+      <line x1="60" y1="230.0" x2="780" y2="230.0" stroke="#2c5364" stroke-opacity="0.3" stroke-dasharray="3,3"/>
+      <text x="48" y="234.0" text-anchor="end" class="grid-text">0</text>
+    
+      <line x1="60" y1="187.5" x2="780" y2="187.5" stroke="#2c5364" stroke-opacity="0.3" stroke-dasharray="3,3"/>
+      <text x="48" y="191.5" text-anchor="end" class="grid-text">37</text>
+    
+      <line x1="60" y1="145.0" x2="780" y2="145.0" stroke="#2c5364" stroke-opacity="0.3" stroke-dasharray="3,3"/>
+      <text x="48" y="149.0" text-anchor="end" class="grid-text">75</text>
+    
+      <line x1="60" y1="102.5" x2="780" y2="102.5" stroke="#2c5364" stroke-opacity="0.3" stroke-dasharray="3,3"/>
+      <text x="48" y="106.5" text-anchor="end" class="grid-text">112</text>
+    
+      <line x1="60" y1="60.0" x2="780" y2="60.0" stroke="#2c5364" stroke-opacity="0.3" stroke-dasharray="3,3"/>
+      <text x="48" y="64.0" text-anchor="end" class="grid-text">150</text>
+    
+
+  <!-- Area & Line -->
+  <path d="M 60.0 230.0 C 92.7 230.0, 92.7 230.0, 125.5 230.0 C 158.2 230.0, 158.2 230.0, 190.9 230.0 C 223.6 230.0, 223.6 230.0, 256.4 230.0 C 289.1 230.0, 289.1 230.0, 321.8 230.0 C 354.5 230.0, 354.5 228.9, 387.3 228.9 C 420.0 228.9, 420.0 230.0, 452.7 230.0 C 485.5 230.0, 485.5 230.0, 518.2 230.0 C 550.9 230.0, 550.9 196.0, 583.6 196.0 C 616.4 196.0, 616.4 225.5, 649.1 225.5 C 681.8 225.5, 681.8 62.3, 714.5 62.3 C 747.3 62.3, 747.3 155.2, 780.0 155.2 L 780.0 230 L 60.0 230 Z" fill="url(#areaGradient)"/>
+  <path d="M 60.0 230.0 C 92.7 230.0, 92.7 230.0, 125.5 230.0 C 158.2 230.0, 158.2 230.0, 190.9 230.0 C 223.6 230.0, 223.6 230.0, 256.4 230.0 C 289.1 230.0, 289.1 230.0, 321.8 230.0 C 354.5 230.0, 354.5 228.9, 387.3 228.9 C 420.0 228.9, 420.0 230.0, 452.7 230.0 C 485.5 230.0, 485.5 230.0, 518.2 230.0 C 550.9 230.0, 550.9 196.0, 583.6 196.0 C 616.4 196.0, 616.4 225.5, 649.1 225.5 C 681.8 225.5, 681.8 62.3, 714.5 62.3 C 747.3 62.3, 747.3 155.2, 780.0 155.2" stroke="url(#lineGradient)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- X Labels -->
+  <text x="60.0" y="252" text-anchor="middle" class="axis-text">Nov</text><text x="125.5" y="252" text-anchor="middle" class="axis-text">Dec</text><text x="190.9" y="252" text-anchor="middle" class="axis-text">Jan</text><text x="256.4" y="252" text-anchor="middle" class="axis-text">Feb</text><text x="321.8" y="252" text-anchor="middle" class="axis-text">Mar</text><text x="387.3" y="252" text-anchor="middle" class="axis-text">Apr</text><text x="452.7" y="252" text-anchor="middle" class="axis-text">May</text><text x="518.2" y="252" text-anchor="middle" class="axis-text">Jun</text><text x="583.6" y="252" text-anchor="middle" class="axis-text">Jul</text><text x="649.1" y="252" text-anchor="middle" class="axis-text">Aug</text><text x="714.5" y="252" text-anchor="middle" class="axis-text">Sep</text><text x="780.0" y="252" text-anchor="middle" class="axis-text">Oct</text>
+
+  <!-- Dots -->
+  
+      <circle cx="60.0" cy="230.0" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="60.0" cy="230.0" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="125.5" cy="230.0" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="125.5" cy="230.0" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="190.9" cy="230.0" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="190.9" cy="230.0" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="256.4" cy="230.0" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="256.4" cy="230.0" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="321.8" cy="230.0" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="321.8" cy="230.0" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="387.3" cy="228.9" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="387.3" cy="228.9" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="452.7" cy="230.0" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="452.7" cy="230.0" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="518.2" cy="230.0" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="518.2" cy="230.0" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="583.6" cy="196.0" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="583.6" cy="196.0" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="649.1" cy="225.5" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="649.1" cy="225.5" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="714.5" cy="62.3" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="714.5" cy="62.3" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+      <circle cx="780.0" cy="155.2" r="4" fill="#141321" stroke="#00FF9C" stroke-width="2.5" class="data-dot"/>
+      <circle cx="780.0" cy="155.2" r="7" fill="#00FF9C" fill-opacity="0.2" class="data-glow"/>
+    
+</svg>
