@@ -67,9 +67,9 @@
 ## 💬 циᴛᴀᴛᴀ дня
 
 <!--QUOTE-START-->
-> Nothing important is learned; it is simply remembered.
+> Out of your vulnerabilities will come your strength.
 >
-> — Carlos Ruiz Zafon
+> — Sigmund Freud
 <!--QUOTE-END-->
 
 ## 📌 ᴨᴩо ɴᴀɴᴏᴅᴇᴄᴏᴍᴘɪʟᴇʀ
@@ -77,16 +77,16 @@
 <!--PROJECT-STATUS-START-->
 - ⭐ Звёзды: **6**
 - 🈺 Основной язык: **C++**
-- 📝 Последний коммит: _docs: update PROJECT_STATE with ItemsAdder 3.2M LOC audit results_
-- 🕒 Обновлено: 2026-10-16 10:26 UTC
+- 📝 Последний коммит: _fix(ci,updater): fallback ccache in macos job and verify sha256 checksum for full client update_
+- 🕒 Обновлено: 2026-10-17 09:58 UTC
 <!--PROJECT-STATUS-END-->
 
 ## 📡 ᴨоᴄᴧᴇдниᴇ ᴨоᴄᴛы ʙ ᴋᴀнᴀᴧᴇ
 
 <!--TG-FEED-START-->
-- [Кстати я ещё апдейты завёз. Можете скачать: github.com/NanoDev1488/NanoForge/releases Там ещё я готовлю математическое обновление, более 1к строк прав…](https://t.me/NanoDev_mc/410)
-- [https://t.me/rubup?startapp=r_6486689289_390467 Крутаните по ссылке плиззз](https://t.me/NanoDev_mc/408)
-- [github.com/NanoDev1488/NanoRp-creator/ Чекайте чо начал делать ❤️](https://t.me/NanoDev_mc/407)
+- [<repositories> <repository> <id>github</id> <url> https://maven.pkg.github.com/NanoDev1488/NanoShade </url> </repository> </repositories> <plugin> <gr…](https://t.me/NanoDev_mc/415)
+- [Готовлю полезный NanoShade (альтернатива Maven Plugin Shade) Сборка джарников будет в разы быстрее, так как ядро будет на rust&c++ и будет наивысшая с…](https://t.me/NanoDev_mc/414)
+- [https://nanodev1488.github.io/NanoDecompiler/web_decompiler.html Кому лень что-то качать, юзайте веб версию. Скоро обновляю там движок и сделаю нормал…](https://t.me/NanoDev_mc/413)
 <!--TG-FEED-END-->
 
 <p align="center">─── ✦ ───</p>
